@@ -33,3 +33,7 @@ The `search.mjs` module fetches images based on a user-provided search query, wh
 https://github.com/Hrais12/SBA-308A-JavaScript-Web-Application
 
 
+## Live Demo:
+https://hrais12.github.io/SBA-308A-JavaScript-Web-Application/
+
+
